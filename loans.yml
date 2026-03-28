@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to Loans Eazybank Related Loans microservice"
+  contactDetails:
+    name: "Kaushik-Loans"
+    email: "kaushik@example.com"
+  onCallSupport:
+    - (555)123-4444
+    - (555)123-4455

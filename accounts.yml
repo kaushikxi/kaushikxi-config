@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Local APIs"
+  contactDetails:
+    name: "Kaushik"
+    email: "kaushik@example.com"
+  onCallSupport:
+    - (555)231-1234
+    - (555)233-2341

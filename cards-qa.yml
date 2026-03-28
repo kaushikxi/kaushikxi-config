@@ -1,0 +1,11 @@
+build:
+  version: "2.1"
+
+cards:
+  message: "Welcome to Cards Related QA APIs"
+  callDetails:
+    name: "Karthik"
+    email: "karthik@example.com"
+  onCallSupport:
+    - (666)123-4444
+    - (666)122-3333

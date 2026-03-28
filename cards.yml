@@ -1,0 +1,11 @@
+build:
+  version: "2.9"
+
+cards:
+  message: "Welcome to EazyBank Cards Related Local APIs"
+  callDetails:
+    name: "Kaushik"
+    email: "kaushik@example.com"
+  onCallSupport:
+    - (555)234-1223
+    - (555)233-1233

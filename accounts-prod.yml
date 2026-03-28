@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related Prod APIs"
+  contactDetails:
+    name: "Sujatha"
+    email: "sujatha@example.com"
+  onCallSupport:
+    - (777)231-1234
+    - (777)233-2341

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank Cards Related Prod APIs"
+  callDetails:
+    name: "Sujatha"
+    email: "sujatha@example.com"
+  onCallSupport:
+    - (111)1234-555
+    - (111)1234-333
