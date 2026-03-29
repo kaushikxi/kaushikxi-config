@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related Prod APIs"
   contactDetails:
     name: "Sujatha"
-    email: "sujatha@example.com"
+    email: "{cipher}71cbb7b34958cc5f51da1bf156b80f5403af65dd89cfe9dcd9eb95dc480719e2ef510fbfa9e732650b19d851c2506ea3"
   onCallSupport:
     - (777)231-1234
     - (777)233-2341
