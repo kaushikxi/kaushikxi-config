@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to EazyBank Cards Related Prod APIs"
+  message: "Welcome to EazyBank Cards Related Production APIs"
   callDetails:
     name: "Sujatha"
     email: "sujatha@example.com"
